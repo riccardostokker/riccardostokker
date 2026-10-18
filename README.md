@@ -1,8 +1,8 @@
 ### Hi, I'm Riccardo!
 
-Hardware is home turf, mostly power electronics. My master's thesis was a 15 kW DC-DC converter for cars, and I stayed in automotive power electronics for a while after that. That pulled me into software, because you can't really design hardware anymore without writing the tools that do it (Rust for the engines, Python for the analysis).
+I'm a mechatronics engineer (MSc) with a bachelor's in electronics engineering. I've spent several years in power electronics doing design and validation, often working as development engineer, test engineer, and system engineer at the same time. I like doing a bit of everything, and I find that being able to adapt is most of the job.
 
-Now I'm a test engineer on precision laser measurement systems. The job is taking messy, exploratory testing and turning it into something repeatable, automated, and measurable.
+Now I'm a test engineer on precision laser measurement systems, where I take messy, exploratory testing and turn it into something repeatable, automated, and measurable. I write most of my tools in Rust and do the analysis in Python.
 
 #### Projects
 
